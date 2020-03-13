@@ -9,7 +9,7 @@ Chaque cellule interagit avec ses huit cellules voisines et à chaque étape, le
   + Toute cellule morte ayant exactement 3 voisins vivants devient une cellule vivante (*naissance*)
   + Toute cellule vivante avec 2 ou 3 voisins vivants reste vivante à la génération suivante (*équilibre*)
   + Toute cellule vivante ayant 4 voisins vivants ou plus meurt à la génération suivante (*mort par étouffement*)
-  + Toute cellule vivante ayant 0 ou 1 voisin vivant décède à la génaration suivante (*mort par isolement*à
+  + Toute cellule vivante ayant 0 ou 1 voisin vivant décède à la génaration suivante (*mort par isolement*)
 
 
 
